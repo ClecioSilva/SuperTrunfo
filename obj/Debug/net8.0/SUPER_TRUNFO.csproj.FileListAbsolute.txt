@@ -1,0 +1,14 @@
+C:\Users\cogv\My Private Documents\SUPER_TRUNFO\bin\Debug\net8.0\SUPER_TRUNFO.exe
+C:\Users\cogv\My Private Documents\SUPER_TRUNFO\bin\Debug\net8.0\SUPER_TRUNFO.deps.json
+C:\Users\cogv\My Private Documents\SUPER_TRUNFO\bin\Debug\net8.0\SUPER_TRUNFO.runtimeconfig.json
+C:\Users\cogv\My Private Documents\SUPER_TRUNFO\bin\Debug\net8.0\SUPER_TRUNFO.dll
+C:\Users\cogv\My Private Documents\SUPER_TRUNFO\bin\Debug\net8.0\SUPER_TRUNFO.pdb
+C:\Users\cogv\My Private Documents\SUPER_TRUNFO\obj\Debug\net8.0\SUPER_TRUNFO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogv\My Private Documents\SUPER_TRUNFO\obj\Debug\net8.0\SUPER_TRUNFO.AssemblyInfoInputs.cache
+C:\Users\cogv\My Private Documents\SUPER_TRUNFO\obj\Debug\net8.0\SUPER_TRUNFO.AssemblyInfo.cs
+C:\Users\cogv\My Private Documents\SUPER_TRUNFO\obj\Debug\net8.0\SUPER_TRUNFO.csproj.CoreCompileInputs.cache
+C:\Users\cogv\My Private Documents\SUPER_TRUNFO\obj\Debug\net8.0\SUPER_TRUNFO.dll
+C:\Users\cogv\My Private Documents\SUPER_TRUNFO\obj\Debug\net8.0\refint\SUPER_TRUNFO.dll
+C:\Users\cogv\My Private Documents\SUPER_TRUNFO\obj\Debug\net8.0\SUPER_TRUNFO.pdb
+C:\Users\cogv\My Private Documents\SUPER_TRUNFO\obj\Debug\net8.0\SUPER_TRUNFO.genruntimeconfig.cache
+C:\Users\cogv\My Private Documents\SUPER_TRUNFO\obj\Debug\net8.0\ref\SUPER_TRUNFO.dll
